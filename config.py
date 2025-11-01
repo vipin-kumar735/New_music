@@ -38,7 +38,7 @@ API_KEY = getenv("API_KEY", 'mxZwH66586NuvJeofwrs')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/VIP-CHOR/New_music",
+    "https://github.com/vipin-kumar735/New_music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
