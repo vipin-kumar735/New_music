@@ -46,7 +46,7 @@ async def tag_all_users(_, message):
                 if usernum == 5:
                     await app.send_message(
                         message.chat.id,
-                        f"{text}\n{usertxt}\n\n|| ➥ ᴏғғ ᴛᴀɢɢɪɴɢ ʙʏ » /cancel ||",
+                        f"{text}\n{usertxt}\n\n|| ➥ ᴏғғ ᴛᴀɢɢɪɴɢ ʙʏ » /stoputag ||",
                     )
                     usernum = 0
                     usertxt = ""
