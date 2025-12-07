@@ -33,9 +33,9 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-API_URL = getenv("API_URL", 'https://teaminflex.xyz')
-VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
-API_KEY = getenv("API_KEY", 'INFLEX93454428D')
+API_URL = getenv("API_URL", 'https://console.nexgenbots.xyz')
+VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.console.nexgenbots.xyz')
+API_KEY = getenv("API_KEY", '30DxNexGenBots3d34cb')
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
