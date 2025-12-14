@@ -21,6 +21,7 @@ import aiohttp
 import config
 import traceback
 from BrandrdXMusic import LOGGER
+from urllib.parse import urlparse
 
 YOUR_API_URL = None
 FALLBACK_API_URL = "https://shrutibots.site"
