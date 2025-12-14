@@ -35,6 +35,7 @@ spotipy
 SafoneAPI
 youtube_search
 youtube-search-python
+py-yt-search
 googlesearch-python
 unidecode
 #git+https://github.com/joetats/youtube_search@master
