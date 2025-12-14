@@ -33,9 +33,9 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
-API_URL = getenv("API_URL", 'https://ytapi-f924778272c5.herokuapp.com') #youtube song url
+#API_URL = getenv("API_URL", 'https://ytapi-f924778272c5.herokuapp.com') #youtube song url
 #VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.console.nexgenbots.xyz')
-API_KEY = getenv("API_KEY",' PyvwQ97792PsqeIVKrCP') 
+#API_KEY = getenv("API_KEY",' PyvwQ97792PsqeIVKrCP') 
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
